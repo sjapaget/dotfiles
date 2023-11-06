@@ -70,5 +70,9 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
-sudo /etc/init.d/postgresql start
+# sudo /etc/init.d/postgresql start
 export DISPLAY=:0
+
+export PATH=/usr/local/bin:$PATH
+export PATH="/opt/homebrew/opt/curl/bin:$PATH"
+export PATH="/opt/homebrew/opt/curl/bin:$PATH"
