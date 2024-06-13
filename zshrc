@@ -76,3 +76,13 @@ export DISPLAY=:0
 export PATH=/usr/local/bin:$PATH
 export PATH="/opt/homebrew/opt/curl/bin:$PATH"
 export PATH="/opt/homebrew/opt/curl/bin:$PATH"
+
+PATH="/opt/homebrew/opt/python@3.11/bin:$PATH"
+PATH="/opt/homebrew/opt/python@2.7.18/bin:$PATH"
+
+PYTHON="/opt/homebrew/opt/python@2.7.18/bin/python3.11"
+
+# Add PHPCS (phpcs)
+export PATH="/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.nvm/versions/node/v11.5.0/bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.nvm/versions/node/v11.5.0/bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/opt/homebrew/opt/python@2.7.18/bin:/opt/homebrew/opt/python@3.11/bin:/opt/homebrew/opt/curl/bin:/opt/homebrew/opt/curl/bin:/usr/local/bin:./bin:./node_modules/.bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.pyenv/shims:/Users/samuelpaget/.rbenv/shims:/Users/samuelpaget/.rbenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/samuelpaget/.pyenv/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin/python3:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/samuelpaget/.cargo/bin:/usr/local/sbin:~/.composer/vendor/bin"
+# Add PHPCS (phpcs)
+export PATH="/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.nvm/versions/node/v11.5.0/bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.nvm/versions/node/v11.5.0/bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/opt/homebrew/opt/python@2.7.18/bin:/opt/homebrew/opt/python@3.11/bin:/opt/homebrew/opt/curl/bin:/opt/homebrew/opt/curl/bin:/usr/local/bin:./bin:./node_modules/.bin:/Users/samuelpaget/.nvm/versions/node/v16.15.1/bin:/Users/samuelpaget/.pyenv/shims:/Users/samuelpaget/.rbenv/shims:/Users/samuelpaget/.rbenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/samuelpaget/.pyenv/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin/python3:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/samuelpaget/.cargo/bin:/usr/local/sbin:~/.composer/vendor/bin:~/.composer/vendor/bin"
